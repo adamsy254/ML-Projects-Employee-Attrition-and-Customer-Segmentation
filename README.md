@@ -38,6 +38,31 @@ Uncovering hidden customer groups to power personalized marketing and inventory 
   - **Cluster 2 (1,668 customers)**: Niche baby & beauty shoppers – **60% Baby + 25% Beauty**, low order volume – ideal for targeted campaigns 👶💄
 - **Tools & Tricks**: Pandas for aggregation, scikit-learn (K-Means, StandardScaler, clustering metrics), Matplotlib/Seaborn visualizations, PCA exploration, detailed cluster profiling 📊
 
+## Technologies Used
+- Python 3.x
+- Libraries: pandas, numpy, scikit-learn (for preprocessing, clustering, metrics), matplotlib/seaborn (for visualizations)
+- Notebooks: Jupyter (part_A.ipynb, Part_2.ipynb)
+- Reports: Word docs (PART A.docx, PART B.docx) with objectives, approaches, insights, and references.
+
+## Files in This Repo
+- **part_A.ipynb**: Jupyter notebook for Part A (data prep, feature engineering, summaries).
+- **PART A.docx**: Report for Part A with objectives, approach, insights, and references.
+- **Part_2.ipynb**: Jupyter notebook for Part B (clustering pipeline, visualizations).
+- **PART B.docx**: Report for Part B with clustering details, profiles, and references.
+- **ML Methods using Python.docx**: Instructions and problem statements for both parts.
+- Datasets: (Add if uploading, e.g., Part_A_Dataset.xlsx, Part_B_Dataset.csv – note: GitHub has file size limits; use Git LFS for large files).
+- Images: Screenshots/figures from reports (e.g., image1.png for charts).
+
+## How to Run
+1. Clone the repo: `git clone https://github.com/yourusername/ML-Projects-Employee-Attrition-and-Customer-Segmentation.git`
+2. Install dependencies: `pip install -r requirements.txt` (Create a requirements.txt with: pandas, numpy, scikit-learn, matplotlib, seaborn)
+3. Run notebooks: Open in Jupyter (`jupyter notebook`) and execute cells.
+4. Assumptions: No missing data in datasets; stratified splits for imbalance; K-Means for simplicity.
+
+## Key Insights
+- Part A: Attrition linked to tenure, promotions, satisfaction; class imbalance handled via stratification.
+- Part B: 3 clusters identified (e.g., regular shoppers, discount bulk buyers, niche baby/beauty focused).
+
 These projects showcase **real-world ML workflows** – from messy data to clean features, robust modeling choices, and interpretable results that drive decisions! 🚀
 
 ## ❤️ Support My Work & Let's Collaborate!
