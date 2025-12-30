@@ -47,11 +47,10 @@ Uncovering hidden customer groups to power personalized marketing and inventory 
 ## Files in This Repo
 - **part_A.ipynb**: Jupyter notebook for Part A (data prep, feature engineering, summaries).
 - **PART A.docx**: Report for Part A with objectives, approach, insights, and references.
-- **Part_2.ipynb**: Jupyter notebook for Part B (clustering pipeline, visualizations).
+- **Part_B.ipynb**: Jupyter notebook for Part B (clustering pipeline, visualizations).
 - **PART B.docx**: Report for Part B with clustering details, profiles, and references.
 - **ML Methods using Python.docx**: Instructions and problem statements for both parts.
-- Datasets: (Add if uploading, e.g., Part_A_Dataset.xlsx, Part_B_Dataset.csv – note: GitHub has file size limits; use Git LFS for large files).
-- Images: Screenshots/figures from reports (e.g., image1.png for charts).
+- Datasets: (Part_A_Dataset.xlsx, Part_B_Dataset.csv.
 
 ## How to Run
 1. Clone the repo: `git clone https://github.com/adamsy254/ML-Projects-Employee-Attrition-and-Customer-Segmentation.git`
