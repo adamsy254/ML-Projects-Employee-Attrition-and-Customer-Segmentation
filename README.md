@@ -54,7 +54,7 @@ Uncovering hidden customer groups to power personalized marketing and inventory 
 - Images: Screenshots/figures from reports (e.g., image1.png for charts).
 
 ## How to Run
-1. Clone the repo: `git clone https://github.com/yourusername/ML-Projects-Employee-Attrition-and-Customer-Segmentation.git`
+1. Clone the repo: `git clone https://github.com/adamsy254/ML-Projects-Employee-Attrition-and-Customer-Segmentation.git`
 2. Install dependencies: `pip install -r requirements.txt` (Create a requirements.txt with: pandas, numpy, scikit-learn, matplotlib, seaborn)
 3. Run notebooks: Open in Jupyter (`jupyter notebook`) and execute cells.
 4. Assumptions: No missing data in datasets; stratified splits for imbalance; K-Means for simplicity.
